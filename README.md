@@ -1,2 +1,2 @@
 # nanto-hub.github.io
-Developer website for Chokdee Lottery and authorized ad inventory information.
+Developer website for duangdee Lottery and authorized ad inventory information.
